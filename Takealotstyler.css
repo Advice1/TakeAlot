@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 Apr 2021, 9:35:30 PM
+    Author     : CPUT
+*/
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.nav
+{
+     border: white;
+      margin-bottom:0; 
+}
+
+.color
+{
+    background-color:#269abc;
+    padding: 5px;
+    margin-bottom:0; 
+    margin-top: 0;
+}
+.jumbotron
+{
+    background-image:  url(Images/Tr.png) !important; 
+    margin-bottom:0; 
+    margin-top: 0;
+}
+.bga_color{
+    background: rgba(0,0,0,0.5);
+}
